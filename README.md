@@ -33,12 +33,14 @@ This project provides a clean and efficient implementation of a *singly linked l
 
 ```bash
 python Linked_list.py
-
+```
 ---
 
-## 🧪 Sample Output
 
+## 🧪 Sample Output
+```bash
 Adding elements to the list:
+
 Adding: 10
 Adding: 20
 Adding: 30
@@ -58,19 +60,23 @@ Linked List: 20 -> 40 -> 50
 
 Attempting to delete 10th node :
 Error: Index 10 is out of range for the current list.
-
+```
 ---
 
 ## 📚 Learning Outcome
 
 This project demonstrates practical understanding of:
 
-Building a custom data structure in Python
+•	Building a custom data structure in Python
 
-Managing memory using linked nodes
+•	Managing memory using linked nodes
 
-Implementing safe deletion and traversal
+•	Implementing safe deletion and traversal
 
-Applying exception handling to ensure code robustness
+•	Applying exception handling to ensure code robustness
+
+---
+
+
 
 
